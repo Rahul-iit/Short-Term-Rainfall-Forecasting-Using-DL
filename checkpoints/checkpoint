@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 model_checkpoint_path: "univariate-model"
 all_model_checkpoint_paths: "univariate-model"
+=======
+model_checkpoint_path: "multivariate-model"
+all_model_checkpoint_paths: "multivariate-model"
+>>>>>>> 503416abff938693164c8ef5ecf259938e826294
